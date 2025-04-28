@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an e-commerce website.<br>I'm looking forward to collaborate with more developers to build more interesting things<br>I'm looking to help with the front-end development your project.<br>Fun fact:I excape reality by coding.
+I'm currently working on an e-commerce website.<br>I'm looking forward to collaborate with more developers to build more interesting things<br>I'm looking forward to help you with the front-end development  project.<br>Fun fact:I excape reality by coding.
 
 
 ## 🌐 Socials:
